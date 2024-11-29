@@ -1,0 +1,297 @@
+@media (max-width: 567px) {
+    .banner{
+        padding: 30px 0;
+    }
+    p{
+        font-size: 15px !important;
+        line-height: 23px !important;
+    }
+    .banner-content h1, .absolute-content h3, .solution-wrapper h2, .feedback-header h3, .profit-wrap h4 {
+        font-size: 30px;
+        line-height: 40px;
+    } 
+    .single-benefit, .three-points{
+        margin-bottom: 30px;
+    } 
+    .single-benefit h4, .link-store h2{
+        font-size: 25px;
+    }
+    .absolute-content{
+        position: relative;
+        transform: none;
+        top: 0;
+    }
+    .one-design, .feedbacks, .link-store{
+        padding: 30px 0;
+    }
+    .one-design img{
+        margin-top: 30px;
+    }
+    .three-points h5{
+        font-size: 20px;
+        line-height: 25px;
+    }
+    .three-points h5 b{
+        font-size: 22px;
+    }
+    .solution-wrapper{
+        flex-direction: column;
+        padding: 30px;
+        text-align: center;
+        gap: 20px;
+    }
+    .link-store p{
+        width: 100%;
+    }
+    .feedback-header{
+        flex-direction: column;
+    }
+    .owl-nav{
+        top: -20%;
+        left: 0;
+    }
+    .owl-nav button img{
+        width: 50px;
+    }
+    .profit-total .total-row span{
+        font-size: 15px;
+    }
+    .profit-wrap{
+        padding: 30px;
+    }
+    .profit-total{
+        padding: 20px 0;
+    }
+    .profit-total .total-row, .profit-footer{
+        padding: 0 20px;
+    }
+    .profit-wrap:after{
+        display: none;
+    }
+    .footer-column{
+        margin-top: 30px;
+    }
+    .footer-column h5{
+        font-size: 20px;
+        margin-bottom: 10px;
+    }
+    footer{
+        padding: 30px 0;
+    }
+    .profit-wrap{
+        max-width: 100%;
+    }
+    .how-it-works h1{
+        font-size: 35px;
+    }
+    .works-container{
+        min-height: 400px;
+        padding: 30px 0;
+    }
+    .tpn-power h2{
+        font-size: 25px;
+        line-height: 30px;
+    }
+    .column-reverse{
+        flex-direction: column-reverse;
+    }
+    .tpn-row img{
+        width: 100%;
+    }
+    .sm-banner-content h1, .faq h3, .tab-pane h2, .blog-category h4, .blog-details-header h1,
+        .sm-banner-content h1, .faq h3 {
+        font-size: 30px;
+        line-height: 40px;
+    }
+    .sm-bannner-wrap{
+        padding: 30px;
+    }
+    .sm-bannner-wrap:after{
+        display: none;
+    }
+    .small-banner{
+        min-height: auto;
+    }
+    .accordion-body{
+        font-size: 15px;
+        line-height: 25px;
+    }
+    .blog-image{
+        height: 300px;
+    }
+    .blog-details h3{
+        font-size: 25px;
+        line-height: 35px;
+    }
+    .blog-category{
+        padding: 30px 0;
+    }
+    .blog-category h4{
+        padding: 0;
+        padding-bottom: 20px;
+    }
+    .blog-category-details{
+        margin-bottom: 30px;
+    }
+}
+
+@media only screen and (max-width: 990px) and (min-width: 568px) {
+    .banner{
+        padding: 30px 0;
+    }
+    p{
+        font-size: 15px !important;
+        line-height: 23px !important;
+    }
+    .banner-content h1, .absolute-content h3, .solution-wrapper h2, .feedback-header h3, .profit-wrap h4 {
+        font-size: 30px;
+        line-height: 40px;
+    } 
+    .single-benefit, .three-points{
+        margin-bottom: 30px;
+    } 
+    .single-benefit h4, .link-store h2{
+        font-size: 25px;
+    }
+    .absolute-content{
+        position: relative;
+        transform: none;
+        top: 0;
+    }
+    .one-design, .feedbacks, .link-store{
+        padding: 30px 0;
+    }
+    .one-design img{
+        margin-top: 30px;
+    }
+    .three-points h5{
+        font-size: 20px;
+        line-height: 25px;
+    }
+    .three-points h5 b{
+        font-size: 22px;
+    }
+    .solution-wrapper{
+        flex-direction: column;
+        padding: 30px;
+        text-align: center;
+        gap: 20px;
+    }
+    .link-store p{
+        width: 100%;
+    }
+    .feedback-header{
+        flex-direction: column;
+    }
+    .owl-nav{
+        top: -20%;
+        left: 0;
+    }
+    .owl-nav button img{
+        width: 50px;
+    }
+    .profit-total .total-row span{
+        font-size: 15px;
+    }
+    .profit-wrap{
+        padding: 30px;
+    }
+    .profit-total{
+        padding: 20px 0;
+    }
+    .profit-total .total-row, .profit-footer{
+        padding: 0 20px;
+    }
+    .profit-wrap:after{
+        display: none;
+    }
+    .footer-column{
+        margin-top: 30px;
+    }
+    footer{
+        padding: 30px 0;
+    }
+    .profit-wrap{
+        max-width: 100%;
+    }
+    .how-it-works h1{
+        font-size: 35px;
+    }
+    .works-container{
+        min-height: 400px;
+        padding: 30px 0;
+    }
+    .tpn-power h2{
+        font-size: 25px;
+        line-height: 30px;
+    }
+    .tpn-row img{
+        width: 100%;
+    }
+    .sm-banner-content h1, .faq h3, .tab-pane h2, .blog-category h4, .blog-details-header h1,
+        .sm-banner-content h1, .faq h3 {
+        font-size: 30px;
+        line-height: 40px;
+    }
+    .sm-bannner-wrap{
+        padding: 30px;
+    }
+    .sm-bannner-wrap:after{
+        display: none;
+    }
+    .small-banner{
+        min-height: auto;
+    }
+    .accordion-body{
+        font-size: 15px;
+        line-height: 25px;
+    }
+    .blog-image{
+        height: 300px;
+    }
+    .blog-details h3{
+        font-size: 25px;
+        line-height: 35px;
+    }
+    .blog-category{
+        padding: 30px 0;
+    }
+    .blog-category h4{
+        padding: 0;
+        padding-bottom: 20px;
+    }
+    .blog-category-details{
+        margin-bottom: 30px;
+    }
+    .blog-category-details h5{
+        font-size: 20px;
+        line-height: 25px;
+    }
+    .footer-column h5{
+        font-size: 20px;
+        margin-bottom: 10px;
+    }
+}
+@media only screen and (max-width: 1024px) and (min-width: 991px) {
+    .sm-banner-content h1{
+        font-size: 30px;
+        width: 40%;
+    }
+    .small-banner{
+        min-height: 500px;
+    }
+    .sm-bannner-wrap:after{
+        display: none;
+    }
+}
+@media only screen and (max-width: 1400px) and (min-width: 1025px) {
+    .sm-banner-content h1{
+        font-size: 30px;
+        width: 60%;
+        line-height: 35px;
+    }
+    .sm-bannner-wrap:after{
+        display: none;
+    }
+}
+

@@ -1,0 +1,299 @@
+*{  
+    font-family: "Poppins", sans-serif;
+    padding: 0;
+    margin: 0;
+}
+.container{
+    margin: 30px 60px;
+}
+.nav-bar{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 30px;
+}
+.nav-bar .logo a{
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 24px;
+    color: #FF7474;
+}
+.nav-bar ul a{
+    padding: 0 30px;
+    text-decoration: none;
+    font-weight: 400;
+    font-size: 14px;
+    color: #000;
+    transition: 0.3s;
+}
+.nav-bar ul a:hover{
+    cursor: pointer;
+    color: #FF7474;
+}
+.nav-bar ul button{
+    border-radius: 5px;
+    background-color: #fff;
+    border: 1px #FF7474 solid;
+    padding: 15px 40px;
+    font-weight: 700;
+    color: #FF7474;
+    transition: 0.3s;
+
+}
+.nav-bar ul button:hover{
+    background-color: #FF7474;
+    color: #fff;
+} 
+.banner-discription{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 100px 0;
+}
+.bullets{
+    padding:  40px 0;
+}
+.bullets ul li{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    line-height: 35px;
+}
+.banner-discription .text h1{
+    font-size: 70px;
+    font-weight: 800;
+    line-height: 76px;
+    letter-spacing: -0.03em;
+    color: #131438;
+    width: 80%;
+}
+.text a {
+    display: flex;
+    gap: 11px;
+    align-items: center;
+    justify-content: center;
+    width: 250px;
+    height: 60px;
+    text-decoration: none;
+    border-radius: 5px;
+    color: #131438;
+    font-weight: 600;
+
+}
+.text .common-button img{
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 50%
+}
+.common-button{
+    height: 36px;
+    display: flex;
+    gap: 30px;
+    align-items: center;
+    margin-top: 58px
+}
+.text button{
+    border-radius: 5px;
+    background-color: #FF7474   ;
+    padding: 15px 40px;
+    font-weight: 700;
+    color: #fff;
+    border: 2px solid;
+    transition: 0.3s;
+}
+.text button:hover{
+    border-radius: 5px;
+    background-color: #fff;
+    color: #FF7474;
+    border: 1px #FF7474 solid;
+} 
+.profits{
+    display: flex;
+    align-items: center;
+    padding: 30px 0;
+}
+.profits h3{
+    color: #131438;
+    font-size: 35px;
+    padding: 20px 0;
+}
+.profits p{
+    font-size: 18px;
+    font-weight: 300;
+}
+.product{
+    background-color: #F9F9FE;
+}
+.product-discription{
+    display: flex;
+    align-items: center;
+    padding: 100px 0;
+}
+.product-discription .text h3{
+    color: #131438;
+    font-weight: 800;
+    font-size: 55px;
+    padding: 30px 0;
+}
+.product-discription .text p{
+    padding: 30px 0;
+}
+.product .cards{
+    display: flex;
+    align-items: center;
+    padding: 30px 0;
+    justify-content: space-between;
+    gap: 20px;
+}
+.cards .card h3{
+    color: #FF9054;
+    font-weight: 800;
+    font-size: 34px;
+}
+.cards .card h4{
+    font-weight: 500;
+    font-size: 28px;
+}
+.cards .card  p{
+    font-size: 18px;
+    padding: 20px 0;
+}
+.link-discription .text{
+    text-align: center;
+    padding: 100px 0;
+}
+.link-discription .text h2{
+    font-size: 54px;
+}
+.link-discription .text b{
+    color: #FF9054;
+}
+.link-discription .text p{
+    text-align: center;font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    color: #414256;
+    width: 50%;
+    /* text in center */
+    margin: 0 auto 70px auto ;
+    text-align: center;
+    display: block;
+}
+.link-discription .image{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.contact-sale{
+    background: #393A57;
+    color: #fff;
+    justify-content: space-around;
+    display: flex;
+    align-items: center;
+    padding: 50px 0;
+    border-radius: 10px;
+    margin: 40px 80px;
+}
+.contact-sale h3{
+    font-size: 54px;
+    padding: 0 30px;
+   
+}
+.text{
+    flex: 0 0   60%;
+}
+.contact-sale button{
+    border-radius: 5px;
+    background-color: #FF7474   ;
+    padding: 15px 70px;
+    margin: 0 70px;
+    border: 0;
+    flex: 0 0 40%;
+    color: #fff;
+    font-weight: 700;
+    transition: 0.3s;
+}
+.contact-sale button:hover{
+    border-radius: 5px;
+    background-color: #fff;
+    color: #FF7474;
+} 
+
+.headings{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    gap: 50px;
+    padding: 100px 0;
+}
+.heading h2{
+    font-size: 54px;
+}
+.heading b{
+    color: #FF7474;
+}
+.heading p{
+    font-size: 18px;
+}
+.card-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 20px;
+    text-align: center;
+
+}
+.card-container .cards {
+    background-color: rgb(228, 227, 227);
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    width: 300px;
+    padding: 50px;
+   
+}
+.card-container.cards img {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+}
+.card-container.cards-body {
+    padding: 15px;
+}
+.card-container.cards-title {
+    font-size: 1.5em;
+    margin-bottom: 10px;
+}
+.card-container.cards-text {
+    font-size: 1em;
+    color: #555;
+}
+.footer{
+    padding: 100px 60px;
+    display: flex;
+    align-items: center;
+    width: 30%;
+    gap: 80px;
+}
+.footer .text h2{
+    color: #131438;
+    font-weight: 800;
+    font-size: 24px;
+    padding: 50px 0;
+}
+.footer .text h4{
+    font-weight: 300;
+    transition: 0.3s;
+}
+.footer .text h4:hover{
+    color: #FF7474;
+    cursor: pointer;
+}
+.icons{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.icons a{
+    padding: 0 10px;
+}
